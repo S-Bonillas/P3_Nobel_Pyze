@@ -9,6 +9,9 @@ Project Contributors:
 - Angel Alcala Ruiz (/dejesusalcala)
 - Rania Shaker (/rshaker101)
 
+**Video Link:**
+- https://drive.google.com/file/d/1TPZwo8BAa0A5I4jWmthOhkOnwOigVcIR/view?usp=drive_link
+
 **Project Abstract and Overview:**
 - Utilizing nearly a thousand records, direct from the Nobel Prize Committee, this projects seeks to visualize and contextualize the data that the committe keeps on their laureates.  Analyizing location, gender, and age data, the Nobel_Pyze project has created multiple interactive visualizations to help users explore this extraordinary dataset.
 
